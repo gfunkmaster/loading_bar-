@@ -1,0 +1,17 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.loading-bar{
+    width: 100%;
+    background-color:black;
+}
+
+.loading-bar__item{
+    width: 5%;
+    height: 4px;
+    background-color: red;
+}
